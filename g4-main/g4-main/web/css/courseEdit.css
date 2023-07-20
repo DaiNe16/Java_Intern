@@ -1,0 +1,84 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Jun 18, 2023, 4:11:07 PM
+    Author     : DELL
+*/
+.content_bot_des textarea {
+    margin-top: 10px;
+    width: 550px;
+    height: 50px;
+}
+.content_bot_chapter div, .content_bot_chapter input{
+    margin-bottom: 10px;
+}
+.content_bot_chapter input {
+    width: 550px;
+    height: 26px;
+}
+.content_bot_target div, .content_bot_target input{
+    margin-bottom: 10px;
+}
+.content_bot_target input {
+    width: 550px;
+    height: 26px;
+}
+.content_bot_requiment div, .content_bot_requiment input{
+    margin-bottom: 10px;
+}
+.content_bot_requiment input {
+    width: 550px;
+    height: 26px;
+}
+.submit_btn{
+    background: #4CAF50;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 40px;
+    width: 100px;
+    font: bold15px arial,sans-serif;
+    text-shadow: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.btn_back{
+    background: #4CAF50;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 40px;
+    width: 100px;
+    font: bold15px arial,sans-serif;
+    text-shadow: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-right: 680px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("http://localhost:9999/g4/image/anhnen.png");
+    min-height: 1200px;
+}
+.content {
+    width: 800px;
+    min-height: 1000px;
+    background-color: #fdcfc9;
+    border-radius: 2%;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    position: relative;
+    text-align: center;
+}
